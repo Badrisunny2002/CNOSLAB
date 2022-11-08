@@ -1,6 +1,6 @@
 /* Name Of the Candidate: M.Badrinath
    Roll No: 204G1A0518
-   Title of the Experiment: CPU Scheduling Using producer-consumer Problem
+   Title of the Experiment: Program to stimulate the  page replacements lru algorithm
    Date of Creation: 08-11-2022
    Date of Execution: 08-11-2022
 */
