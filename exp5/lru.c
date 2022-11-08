@@ -1,3 +1,9 @@
+/* Name Of the Candidate: M.Badrinath
+   Roll No: 204G1A0518
+   Title of the Experiment: CPU Scheduling Using producer-consumer Problem
+   Date of Creation: 08-11-2022
+   Date of Execution: 08-11-2022
+*/
 #include<stdio.h>
 
 int fr[3];
