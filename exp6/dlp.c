@@ -1,3 +1,9 @@
+/* Name Of the Candidate: M.Badrinath
+   Roll No: 204G1A0518
+   Title of the Experiment: Program to stimulate the Bankers Dead Lock Prevention algorithm.
+   Date of Creation: 08-11-2022
+   Date of Execution: 08-11-2022
+*/
 #include<stdio.h>
 
 
